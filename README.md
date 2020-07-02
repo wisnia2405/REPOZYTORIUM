@@ -1,6 +1,6 @@
 # Portfolio
 # O mnie
-Nazywam się Michał Wiśniewski. Jestem początkującym, pełnym zapału testerem, poszukującym możliwości rozwoju w branży IT. Obecnie jestem w trakcie kursu organizowanego przez SoftwareDevelopmentAcademy z testowania. Znam podstawy języka JAVA, Python, a także podstawy SQL, Selenium - Python. Dodatkowo ukończyłem kurs POSTMAN. Posiadam 3-letni staż pracy jako inżynier robót elektrycznych w firmie ZEUS S.A.
+Nazywam się Michał Wiśniewski. Jestem początkującym, pełnym zapału testerem, poszukującym możliwości rozwoju w branży IT. Ukończyłem kurs organizowany przez SoftwareDevelopmentAcademy z testowania. Znam podstawy języka JAVA, Python, a także podstawy SQL, Selenium - Python. Dodatkowo ukończyłem kurs POSTMAN. Posiadam 3-letni staż pracy jako inżynier robót elektrycznych w firmie ZEUS S.A.
 # Narzędzia
   - Postman
   - Jira
@@ -29,7 +29,7 @@ Nazywam się Michał Wiśniewski. Jestem początkującym, pełnym zapału tester
 # Przykład raportu błędu
   - [Przykład raportu błędu automationpractice](https://docs.google.com/document/d/1Zbm-LUCmrz6IlenrZkwmNK9M88qmnhevF_a4Z5QDkrg/edit)
 # Przykład testu automatycznego
-  - W trakcie przygotowywania
+  - [Przykład rejestracji na stronie automationpractice](https://drive.google.com/drive/folders/10SIpU78BXs4B_sqGYyamSr1woi2ucS7-)
 # Przykład xPaths
   - [Znajdowanie xPaths automationpractice](https://docs.google.com/document/d/17GaRsGgeRJM_qmo53Yz6d6qRNz54xi1DvmtKAiVpz_I/edit)
 
